@@ -11,6 +11,7 @@ Este repositorio es un laboratorio de aprendizaje para el desarrollo local con F
 1. Clonar el repo: `git clone <tu-repo>`
 2. Instalar dependencias: `npm install`
 3. Iniciar emuladores:
+
    ```bash
    firebase emulators:start --import=./seed --export-on-exit
 
