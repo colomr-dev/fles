@@ -3,7 +3,7 @@
 Este repositorio es un laboratorio de aprendizaje para el desarrollo local con Firebase en entornos modernos (**WSL2 + VS Code**). El objetivo es probar servicios de forma aislada y end-to-end sin tocar la nube ni generar costes.
 
 ## 🚀 Requisitos Rápidos (WSL / Ubuntu)
-- **Node.js**: v20+ (Detectado: v24.x)
+- **Node.js**: v20+ 
 - **Java**: JRE 11+ (Necesario para los emuladores)
 - **Firebase CLI**: `npm install -g firebase-tools`
 
